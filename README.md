@@ -18,7 +18,7 @@ No `@`, no `#`, no `$` - none of that stuff Priority apparently can't handle pro
 
 ## Contributing
 
-If you found other characters that Priority eats, feel free to submit a PR. Let's build a database of Priority's password crimes together 💀
+If you found other characters that Priority eats, feel free to submit a PR.
 
 ## License
 
